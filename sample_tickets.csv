@@ -1,0 +1,21 @@
+ticket_id,user,subject,description,true_category,true_priority
+T-1001,Nurse Station 2,Can't log in,I forgot my password and now I can't sign in to my computer before my shift.,Account & Access,High
+T-1002,Front Desk,Printer jammed,The front desk printer keeps saying paper jam but there is no paper stuck. Patients are waiting for forms.,Hardware & Printing,High
+T-1003,Dr. Patel,EMR keeps crashing,The EMR application freezes and crashes every time I open a patient chart. I have patients waiting.,Software & Applications,Critical
+T-1004,Billing,Need access to billing folder,I started last week and need access to the shared billing folder on the drive.,Account & Access,Low
+T-1005,Reception,Whole office internet down,Nobody in the office has internet. All computers say no connection.,Network & Connectivity,Critical
+T-1006,Lab Tech,Outlook not syncing,My Outlook inbox hasn't received new email since this morning.,Email & Collaboration,Medium
+T-1007,Admin Assistant,Clicked a weird link,I got an email about my paycheck and clicked the link and entered my password. Now I'm worried it was a scam.,Security,Critical
+T-1008,Nurse Station 1,Account locked,My account got locked after too many attempts.,Account & Access,High
+T-1009,Manager,Need Excel installed,Can you install Excel on the new laptop for our scheduling coordinator?,Software & Applications,Low
+T-1010,Dr. Lee,VPN not connecting from home,I'm working from home tonight and the VPN won't connect.,Network & Connectivity,Medium
+T-1011,X-Ray,Monitor black screen,My second monitor is black and won't turn on.,Hardware & Printing,Medium
+T-1012,Front Desk,New phone authenticator,I got a new phone and now I don't get the MFA code to sign in.,Account & Access,High
+T-1013,Pharmacy,Scanner not working,The scanner won't send scans to my email anymore.,Hardware & Printing,Medium
+T-1014,Office Manager,Teams calendar missing meetings,My calendar in Teams is not showing the meetings I booked in Outlook.,Email & Collaboration,Low
+T-1015,Triage Nurse,Wifi very slow,The wifi in the triage area is really slow and keeps disconnecting.,Network & Connectivity,Medium
+T-1016,Dr. Chen,Error when printing prescriptions,The EMR shows an error message when I try to print a prescription.,Software & Applications,High
+T-1017,Reception,Keyboard broken,Several keys on my keyboard stopped working.,Hardware & Printing,Low
+T-1018,HR,Suspicious attachment,I received an invoice attachment from someone I don't know. Should I open it?,Security,Medium
+T-1019,New Hire,Permission denied on scheduling app,I get permission denied when I open the scheduling application.,Account & Access,Medium
+T-1020,Lab Tech,Software update request,The lab software says there is an update available. Can IT install it?,Software & Applications,Low
